@@ -1,0 +1,20 @@
+{
+    "name": "my_metric",
+    "title": "My Metric template",
+    "version": "0.0.1",
+    "description": "metadata file for my_metric plugin",
+    "author": "Siddharth Roychoudhury<debu2in@gmail.com>",
+    "homepage": "https://count.ly/marketplace/",
+    "repository" :{ "type" : "git", "url" : "http://github.com/siddrc/countly-server.git"},
+    "bugs":{ "url" : "http://github.com/Countly/countly-server/issues"},
+    "keywords": [
+      "countly",
+      "analytics",
+      "mobile",
+      "plugins",
+      "template"
+    ],
+    "dependencies": {
+    },
+    "private": true
+  }
