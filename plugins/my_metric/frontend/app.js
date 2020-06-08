@@ -21,7 +21,7 @@ const plugin = {},
                 else {
 
                     //render template with data	
-                    res.render('../../../plugins/ourplugin/frontend/public/templates/default', {
+                    res.render('../../../plugins/my_metric/frontend/public/templates/default', {
                         path: countlyConfig.path || "",
                         cdn: countlyConfig.cdn || "",
                         data: plugindata
